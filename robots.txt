@@ -1,10 +1,5 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
 Sitemap: https://yeomchang-review-tip.hardcoreroom.com/sitemap.xml
+Sitemap: https://yeomchang-review-tip.hardcoreroom.com/sitemap-pages.xml
